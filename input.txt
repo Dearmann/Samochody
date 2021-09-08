@@ -1,0 +1,70 @@
+--- samochod ---
+marka: skoda
+model: citigo
+rok produkcji: 2010
+pojemnosc silnika: 1300
+nr silnika: 45VG342EW34
+nr nadwozia: 324987TR854FR321
+data pierwszej rejestracji: 2010-05-03
+numery rejestracyjne:
+2010-05-03 SG12345
+2012-11-03 ZS434U
+2014-12-05 NOL3421
+wlaciciele:
+2010-05-03 Zbigniew Szpak
+2010-12-12 Anna Romaryn
+2012-10-04 Teodor Puma
+
+2014-11-15 Elzbieta Fiuk, Grzegorz Fiuk
+--- samochod ---
+marka: opel
+model: corsa
+rok produkcji: 2009
+pojemnosc silnika: 1200
+nr silnika: 73GR493NM66
+nr nadwozia: 1FMPU18LXXLB51066
+data pierwszej rejestracji: 2009-01-23
+numery rejestracyjne:
+2009-01-23 HY28656
+2013-03-11 BB6322
+wlaciciele:
+2010-05-03 Walentyn Walinski
+2010-12-12 Bartlomiej Tuma
+2012-10-04 Irena Bolda
+--- samochod ---
+marka: toyota
+model: corolla
+rok produkcji: 2006
+pojemnosc silnika: 1400
+nr silnika: 10DS689GR43
+nr nadwozia: JHLRE38508C055250
+data pierwszej rejestracji: 2006-08-15
+numery rejestracyjne:
+2006-08-15 SG12345
+2008-11-01 ZS434U
+2011-05-17 NOL3421
+wlaciciele:
+2006-08-15 Robert Sitarski
+2008-10-19 Oliwia Lapa, Grzegorz Lapa
+2011-05-02 Kaja Kulinska, Walentyn Walinski, Jozef Cuda
+2015-07-24 Hugo Placzek
+--- samochod ---
+marka: kia
+model: sportage
+rok produkcji: 2012
+pojemnosc silnika: 1600
+nr silnika: 82HR572GR30
+nr nadwozia: WP0AD2A91FS106987
+data pierwszej rejestracji: 2012-10-30
+numery rejestracyjne:
+2012-10-30 NJH5543
+2014-03-04 XS32234
+2015-11-29 GT5463
+wlaciciele:
+2012-10-30 Jozef Cuda
+2013-09-25 Walentyn Walinski
+2014-02-22 Magdalena Jakubek
+2015-11-15 Lilia Czarnowska
+
+
+

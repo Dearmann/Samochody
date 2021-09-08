@@ -1,0 +1,1 @@
+g++ samochody.cpp funkcje.cpp memory/nvwa/bool_array.cpp memory/nvwa/file_line_reader.cpp memory/nvwa/mmap_reader_base.cpp memory/nvwa/debug_new.cpp memory/nvwa/static_mem_pool.cpp memory/nvwa/mem_pool_base.cpp -o memory
