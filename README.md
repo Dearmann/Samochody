@@ -1,4 +1,6 @@
 # Samochody
+Projekt semestr 1, Podstawy Programowania Komputerów
+
 Celem projektu jest przećwiczenie implementacji i stosowania dynamicznych struktur danych (np. list, drzew itp.) oraz zarządzania pamięcią.  
 Korzystanie z dynamicznych struktur danych jest warunkiem koniecznym.  
 Stosowanie kontenerów STL nie spełnia warunku określonego w pkt. 1.  
